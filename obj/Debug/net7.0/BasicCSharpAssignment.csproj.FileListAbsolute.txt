@@ -1,0 +1,15 @@
+C:\Users\yaram\OneDrive\Desktop\simply learn\saturday-assg\BasicCSharpAssignment\BasicCSharpAssignment\bin\Debug\net7.0\BasicCSharpAssignment.exe
+C:\Users\yaram\OneDrive\Desktop\simply learn\saturday-assg\BasicCSharpAssignment\BasicCSharpAssignment\bin\Debug\net7.0\BasicCSharpAssignment.deps.json
+C:\Users\yaram\OneDrive\Desktop\simply learn\saturday-assg\BasicCSharpAssignment\BasicCSharpAssignment\bin\Debug\net7.0\BasicCSharpAssignment.runtimeconfig.json
+C:\Users\yaram\OneDrive\Desktop\simply learn\saturday-assg\BasicCSharpAssignment\BasicCSharpAssignment\bin\Debug\net7.0\BasicCSharpAssignment.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn\saturday-assg\BasicCSharpAssignment\BasicCSharpAssignment\bin\Debug\net7.0\BasicCSharpAssignment.pdb
+C:\Users\yaram\OneDrive\Desktop\simply learn\saturday-assg\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\net7.0\BasicCSharpAssignment.csproj.AssemblyReference.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\saturday-assg\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\net7.0\BasicCSharpAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaram\OneDrive\Desktop\simply learn\saturday-assg\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\net7.0\BasicCSharpAssignment.AssemblyInfoInputs.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\saturday-assg\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\net7.0\BasicCSharpAssignment.AssemblyInfo.cs
+C:\Users\yaram\OneDrive\Desktop\simply learn\saturday-assg\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\net7.0\BasicCSharpAssignment.csproj.CoreCompileInputs.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\saturday-assg\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\net7.0\BasicCSharpAssignment.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn\saturday-assg\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\net7.0\refint\BasicCSharpAssignment.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn\saturday-assg\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\net7.0\BasicCSharpAssignment.pdb
+C:\Users\yaram\OneDrive\Desktop\simply learn\saturday-assg\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\net7.0\BasicCSharpAssignment.genruntimeconfig.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\saturday-assg\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\net7.0\ref\BasicCSharpAssignment.dll
